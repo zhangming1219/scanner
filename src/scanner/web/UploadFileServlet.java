@@ -20,7 +20,7 @@ import org.apache.commons.fileupload.servlet.ServletFileUpload;
   * 项目名称：scanner   
   * 类名称：UploadFileServlet   
   * 类描述：  上传文件的servlet
-  * 创建人：LL   
+  * 创建人：Leilong  
   * 创建时间：2018年2月2日 下午5:30:20     
   * @version    
   *    
